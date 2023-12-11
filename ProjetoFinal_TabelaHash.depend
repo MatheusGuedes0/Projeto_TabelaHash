@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687222999 source:d:\documentos matheus guedes\documents\matheus guedes\análise e desenvolvimento de sistemas\2° periodo-ads\estrutura de dados i\exercicios\listas para entrega\projetofinal_tabelahash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FuncoesTabelaH.h"
+
+1687221060 d:\documentos matheus guedes\documents\matheus guedes\análise e desenvolvimento de sistemas\2° periodo-ads\estrutura de dados i\exercicios\listas para entrega\projetofinal_tabelahash\funcoestabelah.h
+
+1687222196 source:d:\documentos matheus guedes\documents\matheus guedes\análise e desenvolvimento de sistemas\2° periodo-ads\estrutura de dados i\exercicios\listas para entrega\projetofinal_tabelahash\funcoestabelah.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"FuncoesTabelaH.h"
+
